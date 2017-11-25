@@ -1,0 +1,11 @@
+{
+  "name": "habbo-pts",
+  "version": "1.0.0",
+  "description": "A Personnel Tracking System for Habbo Military Simulations, written in NodeJS with considerable scalability and features.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MistahDee",
+  "license": "ISC"
+}
